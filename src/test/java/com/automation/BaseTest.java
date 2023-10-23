@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeSuite;
 
 public class BaseTest {
 	protected WebDriver driver;
-	protected String fileInputStream = "C://Users//eclipse-workspace//automation_framework_from_scratch//src//main//java//Resources//data.properties";
+	protected String fileInputStream = "C://Users//srimangena//eclipse-workspace//com.automation//data.properties";
 
 	@BeforeSuite
 	public void beforeSuite() throws IOException {
